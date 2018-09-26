@@ -6,7 +6,7 @@
             <div class="large-12 cell">
                 <h2 style="text-align: center;">Edit Client</h2>
             </div>
-        </div>
+        </div>         
 
         <div class="grid-x grid-padding-x">
             <div class="auto cell"></div>
